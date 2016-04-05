@@ -1,0 +1,2 @@
+# AzureADSampleMultiTenantOpenIdConnect
+WebApp-WebAPI-MultiTenant-OpenIDConnect-DotNet
